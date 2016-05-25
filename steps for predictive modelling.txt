@@ -1,0 +1,14 @@
+# Predictive Modeling
+
+1.Data cleaning-Missing value, Outlier
+2.Data Exploration
+ i)Relationship b/w variables-important variables
+ ii) inference-histogram,box-plot
+ iii) x2,F
+3.Model Building-Benchmark model
+4.Parameter tuning
+ i) Feature engienering 
+ ii) interaction
+ iii) cross validation
+ iv) Dimensionality Reduction
+5.Final model-ensemble
